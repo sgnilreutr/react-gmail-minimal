@@ -1,5 +1,7 @@
 # react-gmail-minimal
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/63840692f47f4e2d8be5addd3784ea9f)](https://app.codacy.com/gh/sgnilreutr/react-gmail-minimal?utm_source=github.com&utm_medium=referral&utm_content=sgnilreutr/react-gmail-minimal&utm_campaign=Badge_Grade_Settings)
+
 ## Available Scripts
 
 In the project directory, you can run:
